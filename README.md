@@ -3,7 +3,7 @@ This is the first part of the AirBnB clone project where we worked on the backen
 
 Data (python objects) generated are stored in a json file and can be accessed with the help of the json module in python.
 
-#DESCRIPTION OF THE COMMAND INTERPRETER...
+# DESCRIPTION OF THE COMMAND INTERPRETER...
 The interface of the application is just like the Bash shell except that this has a limited number of accepted commands that were solely defined for the purposes of the usage of the AirBnB website.
 
 This command line interpreter serves as the frontend of the web app where users can interact with the backend which was developed with python OOP programming.
@@ -64,10 +64,6 @@ In Interactive Mode the commands will need to be written with a keyboard when th
 # ARGUMENTS...
 Most commands have several options or arguments that can be used when executing the program. In order for the Shell to recognize those parameters, the user must separate everything with spaces.
 
-Example:
-user@ubuntu:~/AirBnB$ ./console.py
-(hbnb) create BaseModel
-49faff9a-6318-451f-87b6-910505c55907
-user@ubuntu:~/AirBnB$ ./console.py
 
-AIRBNB CLONE WITH ALX
+
+# AIRBNB CLONE WITH ALX
